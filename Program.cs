@@ -25,4 +25,4 @@ foreach(var rat in newFavoriteRats)
 }
 
 //delete
-//gimme can't really delete from an array well. 
+//gimme can't really delete from an array well, according to instructor. 
